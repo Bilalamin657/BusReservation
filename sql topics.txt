@@ -1,0 +1,9 @@
+sqrt
+round
+upper and lower
+having
+reverse
+concat
+now
+
+joints
